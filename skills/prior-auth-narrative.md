@@ -23,3 +23,8 @@ Draft the narrative in a professional, clinical tone suitable for submission to 
 5. **Conclusion** — clear request for approval with urgency noted if applicable
 
 Keep the narrative factual, concise (typically 250–500 words), and free of speculative language. Flag any information gaps that could weaken the appeal.
+
+## Live Data Sources
+
+- **CMS LCD Database** — `https://www.cms.gov/medicare-coverage-database/search/search-criteria.aspx` — Local Coverage Determinations for Medicare policy evidence
+- **Payer Policy Feeds** — major PBM and payer clinical policy portals (Express Scripts, CVS Caremark, OptumRx) for plan-specific PA criteria

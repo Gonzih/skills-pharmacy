@@ -18,3 +18,8 @@ The note should include:
 **Patient Questions Addressed:** [if the user provides patient questions, answer them here in plain language]
 
 Write in clear, patient-friendly language (6th–8th grade reading level). Avoid medical jargon where possible. If critical information is missing (e.g., indication unknown), note what additional information would be needed.
+
+## Live Data Sources
+
+- **MedlinePlus Drug Information API** — `https://connect.medlineplus.gov/service` — patient-friendly drug monographs from the National Library of Medicine
+- **FDA Medication Guides** — `https://www.fda.gov/drugs/drug-safety-and-availability/medication-guides` — official FDA-required medication guides for high-risk drugs
