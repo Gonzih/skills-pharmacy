@@ -17,3 +17,8 @@ If a specific insurance plan or formulary is provided, tailor the summary to tha
 Present results as a clear table or structured list. End with a brief summary of high-priority cost-saving opportunities (e.g., switches to generics, therapeutic alternatives, manufacturer copay cards).
 
 **Disclaimer:** Always verify coverage directly with the patient's insurance plan before counseling — formularies change and vary by plan year and region.
+
+## Live Data Sources
+
+- **CMS Medicare Part D Formulary Files** — `https://data.cms.gov/medicare-part-d` — official formulary, pricing, and pharmacy files updated quarterly
+- **RxNorm Concept Lookup** — `https://rxnav.nlm.nih.gov/REST/rxcui.json` — normalize drug names to RxCUI identifiers for cross-formulary lookups
